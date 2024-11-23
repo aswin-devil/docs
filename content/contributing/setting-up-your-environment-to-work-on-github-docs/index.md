@@ -8,4 +8,4 @@ children:
   - /working-on-github-docs-in-a-codespace
   - /creating-a-local-environment
   - /troubleshooting-your-environment
----
+---get-started/getting-started-with-git/managing-remote-repositories
